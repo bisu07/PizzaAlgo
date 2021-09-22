@@ -1,2 +1,4 @@
 step 1: Order thee pizza.
-Step 2: Wait for delivery.
+step 2: pay for order.
+step 3: track the pizza order.
+Step 4: Wait for delivery.
